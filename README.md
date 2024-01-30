@@ -3,4 +3,4 @@ In the Time Series Analysis and Forecasting project, you will dive deep into ana
 
 Time-series analysis and forecasting projects are in high demand in financial sectors, and they will help you land a high-paying job. The only thing you need to do is to interpret various trends and accurately forecast the numbers. 
 
-<img src="[https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png](https://cdn.educba.com/academy/wp-content/uploads/2020/05/Time-Series-Analysis.jpg)https://cdn.educba.com/academy/wp-content/uploads/2020/05/Time-Series-Analysis.jpg" alt="Time Series" width="700" align="middle">
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2020/05/Time-Series-Analysis.jpg" alt="Time Series" width="300" align="middle">
